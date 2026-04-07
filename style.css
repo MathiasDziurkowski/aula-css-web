@@ -33,3 +33,25 @@ h1 {
     text-align: center;
     list-style: none;
 }
+
+.caracteristicas h2{
+    border: black solid 2px;
+    border-radius: 8px;
+    background-color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+.caracteristicas p {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    flex-direction: column;
+    border-radius: 8px;
+}
+
+.caracteristicas {
+    display: flex;
+
+    flex-direction: column;
+}
