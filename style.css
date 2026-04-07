@@ -20,3 +20,8 @@ h1 {
     text-align: center;
     padding: 8px;
 }
+
+.descricao {
+    font-style: italic;
+
+}
