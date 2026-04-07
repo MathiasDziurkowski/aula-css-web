@@ -25,3 +25,11 @@ h1 {
     font-style: italic;
 
 }
+
+.habilidades ul {
+    background-color: white;
+    padding: 16px;
+    border-radius: 8px;
+    text-align: center;
+    list-style: none;
+}
